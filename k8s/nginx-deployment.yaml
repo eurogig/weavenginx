@@ -18,7 +18,7 @@ spec:
         app: nginxweave
     spec:
       containers:
-      - image: nginx:1.20
+      - image: nginx:1.21
         name: nginx
         resources: {}
 status: {}
